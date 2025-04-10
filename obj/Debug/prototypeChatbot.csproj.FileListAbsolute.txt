@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\prototypeChatbot\prototypeChatbot\bin\Debug\prototypeChatbot.exe.config
+C:\Users\HP\source\repos\prototypeChatbot\prototypeChatbot\bin\Debug\prototypeChatbot.exe
+C:\Users\HP\source\repos\prototypeChatbot\prototypeChatbot\bin\Debug\prototypeChatbot.pdb
+C:\Users\HP\source\repos\prototypeChatbot\prototypeChatbot\obj\Debug\prototypeChatbot.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\prototypeChatbot\prototypeChatbot\obj\Debug\prototypeChatbot.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\prototypeChatbot\prototypeChatbot\obj\Debug\prototypeChatbot.exe
+C:\Users\HP\source\repos\prototypeChatbot\prototypeChatbot\obj\Debug\prototypeChatbot.pdb
