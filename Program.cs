@@ -80,6 +80,10 @@ namespace prototypeChatbot
                 {
                     Console.WriteLine("Chatbot: I'm just a program, but I'm functioning as expected! How about you?");
                 }
+                else if (userInput == "Who are you?")
+                {
+                    Console.WriteLine("Chatbot: I am groot, but I'm functioning as expected! How about you?");
+                }
                 else if (userInput == "what's your purpose?")
                 {
                     Console.WriteLine("Chatbot: My purpose is to assist you with your queries and provide information.");
